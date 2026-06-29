@@ -1,0 +1,5 @@
+# Core Network & API Requests
+requests>=2.31.0
+
+# Terminal UI & Progress Bars (Optional but highly recommended)
+rich>=13.0.0
